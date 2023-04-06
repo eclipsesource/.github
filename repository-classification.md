@@ -15,7 +15,7 @@ Repositories that are or have been ready for production, can have one of the fol
 | Active Development | [![Project - Active Development](https://img.shields.io/badge/Project-Active-2ea44f)](https://github.com/eclipsesource/.github/blob/main/repository-classification.md) | A repository that is under active development. The maintainers of this repository are actively developing new features and releasing new versions. |
 | Feature Complete   | [![Project - Feature Complete](https://img.shields.io/badge/Project-Complete-2e85a4)](https://github.com/eclipsesource/.github/blob/main/repository-classification.md) | A repository that is considered to be feature complete. Thus, the maintainers are currently not actively developing new features. |
 | Maintenance        | [![Project - Maintenance](https://img.shields.io/badge/Project-Maintenance-872ea4)](https://github.com/eclipsesource/.github/blob/main/repository-classification.md) | A repository that is in maintenance mode. The maintainers will focus on issues relevant to their adoption use cases only. |
-| Deprecated        | [![Project - Deprecated](https://img.shields.io/badge/Project-Deprecated-a42e51)](https://github.com/eclipsesource/.github/blob/main/repository-classification.md) | A repository that is in maintenance mode. The maintainers will focus on issues relevant to their adoption use cases only. |
+| Deprecated        | [![Project - Deprecated](https://img.shields.io/badge/Project-Deprecated-a42e51)](https://github.com/eclipsesource/.github/blob/main/repository-classification.md) | A repository that is deprecated. The authors will not spend further effort on development or fixes. |
 
 ## Other purposes
 
