@@ -3,7 +3,7 @@
 ## Tool Creators at your Service
 
 EclipseSource has well over a decade of experience in designing, developing and enhancing tools for a variety of domains based on all major technology platforms.
-Whether it is a classic IDE for software engineering, a modeling tool for your domain experts or a domain-specific solution for engineers, if the tool is a web-based, a desktop-based application or a plugin for Eclipse, EclipseSource can support you in implementing the best possible solution for your use case.
+Whether it is a classic IDE for software engineering, a modeling tool for your domain experts or a domain-specific solution for engineers, whether you need a web-based or a desktop-based application, a plugin for Eclipse or an extension for Eclipse Theia or VS Code, EclipseSource can support you in implementing the best possible solution for your use case.
 
 We provide a complete range of services including conception, evaluation, training, support, and consulting/implementation all with a special focus on framework adoption, creation, and (long-term) maintenance.
 
