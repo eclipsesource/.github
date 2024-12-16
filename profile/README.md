@@ -11,7 +11,7 @@ Visit <http://eclipsesource.com> for more information.
 
 ## We :heart: Open Source
 
-EclipseSource is a major contributor to a large number of open source projects inside and outside the Eclipse ecosystem, including [Eclipse Theia](https://github.com/eclipse-theia/theia), [Eclipse GLSP](https://github.com/eclipse-glsp/glsp), [EMF](https://www.eclipse.org/modeling/emf) and [EMF.cloud](https://www.eclipse.org/emfcloud), [EMF Forms](https://www.eclipse.org/ecp/emfforms), [JSON Forms](https://github.com/eclipsesource/jsonforms), [CDT Cloud](https://github.com/eclipse-cdt-cloud/cdt-cloud), and many more.
+EclipseSource is a major contributor to a large number of open source projects inside and outside the Eclipse ecosystem, including [Eclipse Theia](https://github.com/eclipse-theia/theia), [Eclipse GLSP](https://github.com/eclipse-glsp/glsp), [EMF](https://www.eclipse.org/modeling/emf) and [EMF Cloud](https://www.eclipse.org/emfcloud), [EMF Forms](https://www.eclipse.org/ecp/emfforms), [JSON Forms](https://github.com/eclipsesource/jsonforms), [CDT Cloud](https://github.com/eclipse-cdt-cloud/cdt-cloud), and many more.
 
 ## Come Work With Us
 
